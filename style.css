@@ -1,0 +1,30 @@
+body {
+  background-color: #e8edaa;
+}
+
+section {
+  background-color: #20da97;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: #122225;
+}
+
+.color1 {
+  color: #122225;
+}
+.color2 {
+  color: #145488;
+}
+.color3 {
+  color: #1aada3;
+}
+.color4 {
+  color: #20da97;
+}
+.color5 {
+  color: #e8edaa;
+}
