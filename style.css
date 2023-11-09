@@ -2,14 +2,23 @@ body {
   background-color: #e8edaa;
 }
 
-section {
+.section {
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 8px;
   background-color: #20da97;
 }
-
-h1,
-h2,
-h3,
-p {
+.navigation {
+  padding: 0 0 8px 0;
+}
+.navigation a {
+  color: #145488;
+}
+.section-article a {
+  color: rgb(139, 7, 179);
+}
+.section-heading,
+.paragraph {
   color: #122225;
 }
 
